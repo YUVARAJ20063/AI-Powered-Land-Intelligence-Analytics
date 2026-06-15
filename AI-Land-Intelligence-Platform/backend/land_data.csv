@@ -1,0 +1,9 @@
+area_sqft,price_per_sqft,distance_city_km,distance_highway_km,schools_nearby,hospitals_nearby,road_width_ft,flood_risk
+2400,470,6,1.2,4,2,30,0
+3000,350,12,2.5,2,1,20,0
+1800,420,8,1.8,3,1,25,1
+2200,500,5,1.0,5,3,35,0
+1500,300,15,4.0,1,1,18,1
+2600,550,4,0.8,6,3,40,0
+2000,390,10,2.2,2,1,22,0
+3500,600,3,0.5,7,4,45,0
